@@ -1,0 +1,43 @@
+.body{
+
+    background-color: bisque;
+}
+
+.img{
+
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+.h1{
+
+    text-align: center;
+
+}
+
+.line{
+
+    color: blue;
+}
+
+.head{
+ 
+    font-size: 15px;
+    color: orangered;
+    
+}
+.para{
+
+    font-size: medium;
+}
+
+.responsive{
+
+    max-width: 1500px;
+    min-width: 320px;
+    width: 100%;
+    height: 100%;
+}
